@@ -49,7 +49,3 @@ The camera uses Unity's new **Input System** and supports normal and accelerated
 - Shader Graph
 - Unity Input System
 - Procedural mesh generation
-
-## University Project
-
-Developed as part of the **Computer Graphics and Vision Seminar** at university.
